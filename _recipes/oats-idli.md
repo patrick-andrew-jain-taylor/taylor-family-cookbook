@@ -9,7 +9,7 @@ categories: [Snacks]
 tags: [Vegetarian]
 ---
 
-Crunchy, tapioca balls!
+Soft, savory steamed cakes made with oats!
 
 ## Ingredients
 
