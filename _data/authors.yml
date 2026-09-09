@@ -8,6 +8,12 @@ pat:
     - title: GitHub
       url: https://github.com/patrick-andrew-taylor
       icon: fab fa-github-square
+aj:
+  name: Akanksha Jain
+  picture: "/assets/img/authors/aj.jpg"
+jt:
+  name: Patrick Taylor & Akanksha Jain
+  picture: "/assets/img/authors/jt.jpg"
 dmt:
   name: Denise (Zimmerman) Taylor
   picture: "/assets/img/authors/dmt.jpg"
@@ -41,6 +47,9 @@ jfz:
   picture: "/assets/img/authors/jfz.jpg"
 cdn:
   name: Colleen (Dorsey) Needham
+rsj:
+  name: Renu (Sharma) Jain
+  picture: "/assets/img/authors/rsj.jpg"
 sdk:
   name: Sadella Khama
   picture: "/assets/img/authors/sdk.jpg"
