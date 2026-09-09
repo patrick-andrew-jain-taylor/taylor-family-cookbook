@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Velveeta Sauce
 image:
   path: /assets/img/velveeta-sauce.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Green Sauce
 image:
   path: /assets/img/green-sauce.jpg

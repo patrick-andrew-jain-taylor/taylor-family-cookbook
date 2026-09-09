@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Hardboiled Eggs (Meal-Prep Batch)
 image:
   path: /assets/img/meal-prep-hardboiled-eggs.jpg

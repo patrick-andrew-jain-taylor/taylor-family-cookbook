@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Overnight Oats Jars
 image:
   path: /assets/img/overnight-oats-jars.jpg

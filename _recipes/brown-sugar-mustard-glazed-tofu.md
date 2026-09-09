@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Brown Sugar & Mustard Glazed Tofu
 image:
   path: /assets/img/brown-sugar-mustard-glazed-tofu.jpg

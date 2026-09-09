@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Vegan Pernil Sandwich
 image:
   path: /assets/img/vegan-pernil-sandwich.jpg

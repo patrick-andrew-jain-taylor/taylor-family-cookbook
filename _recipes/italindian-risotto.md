@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Italindian Risotto
 image:
   path: /assets/img/risotto.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Buffalo Sauce
 image:
   path: /assets/img/buffalo.jpg

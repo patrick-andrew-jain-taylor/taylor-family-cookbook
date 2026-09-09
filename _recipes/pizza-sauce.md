@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Pizza Sauce
 image:
   path: /assets/img/pizza-sauce.jpg

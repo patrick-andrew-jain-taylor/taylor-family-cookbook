@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Avocado Toast
 image:
   path: /assets/img/avocado-toast.jpg

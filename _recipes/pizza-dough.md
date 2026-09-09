@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Pizza Dough
 image:
   path: /assets/img/pizza-dough.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Supergreens PB&J Smoothie
 image:
   path: /assets/img/supergreens-pb-and-j-smoothie.jpg

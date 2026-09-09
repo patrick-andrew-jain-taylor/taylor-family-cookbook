@@ -9,7 +9,7 @@ paths:
 
 ```yaml
 ---
-author: pjt
+author: pat
 title: <Title Case Recipe Name>
 image:
   path: /assets/img/<slug>.jpg

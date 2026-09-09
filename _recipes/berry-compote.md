@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Berry Compote
 image:
   path: /assets/img/berry-compote.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Potato and Caramelized Onion Pithivier
 image:
   path: /assets/img/potato-and-caramelized-onion-pithivier.jpeg

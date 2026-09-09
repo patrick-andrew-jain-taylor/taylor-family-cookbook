@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: South Shore Bar Pizza
 image:
   path: /assets/img/bar-pizza.jpg
