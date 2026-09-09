@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Tuna Salad
 image:
   path: /assets/img/tuna-salad.jpg

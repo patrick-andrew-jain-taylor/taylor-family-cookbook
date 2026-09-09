@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Taco Seasoning
 image:
   path: /assets/img/taco-seasoning.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Pepper Paneer
 image:
   path: /assets/img/pepper-paneer.jpeg

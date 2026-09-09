@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Muchi Curry Powder
 image:
   path: /assets/img/curry-powder.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Platonic Ideal Grilled Cheese
 image:
   path: /assets/img/platonic-ideal-grilled-cheese.jpeg

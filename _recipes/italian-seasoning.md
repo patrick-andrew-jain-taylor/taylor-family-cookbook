@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Italian Seasoning
 image:
   path: /assets/img/italian-seasoning.jpg

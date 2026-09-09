@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Impossible Bolognese Sauce
 image:
   path: /assets/img/impossible-bolognese.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Christmas Crepes
 image:
   path: /assets/img/christmas-crepes.jpg

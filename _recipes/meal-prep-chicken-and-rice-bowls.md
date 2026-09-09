@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Meal-Prep Chicken & Rice Bowls
 image:
   path: /assets/img/meal-prep-chicken-and-rice-bowls.jpg

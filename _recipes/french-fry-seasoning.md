@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: French Fry Seasoning
 image:
   path: /assets/img/french-fry-seasoning.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Garden Green Juice & Smoothie
 image:
   path: /assets/img/garden-green-juice-and-smoothie.jpg

@@ -1,5 +1,5 @@
 ---
-author: pjt
+author: pat
 title: Avocado Toast Seasoning
 image:
   path: /assets/img/avocado-toast-seasoning.jpg
